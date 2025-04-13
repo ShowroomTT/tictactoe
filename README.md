@@ -1,6 +1,7 @@
 # tictactoe
 
 Template for tictactoe, all standard vue/vite Setup
+Small example for application purpose
 
 ## Standard Setup
 
