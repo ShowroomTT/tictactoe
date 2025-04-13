@@ -36,7 +36,6 @@ const calcWinner = () => {
         // const [a, b, c] = winningCondition[i]
 
         if (board[cellone] && board[cellone] === board[celltwo] && board[cellone] === board[cellthree]){
-            console.log('yes yes yo')
             return `The winner is player: ${board[cellone]}`
         }
     }
